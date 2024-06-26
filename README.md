@@ -1,2 +1,3 @@
 # Text_Editor
 In-House Training Project
+This text editor mini-project focuses on delivering essential functionalities tailored for efficient text editing. It includes core features such as undo and redo operations, enabling users to revert or reinstate changes seamlessly. Additionally, robust file handling capabilities ensure users can create, open, edit, and save text documents effortlessly. These functionalities aim to enhance user productivity by providing a reliable platform for basic text manipulation tasks while laying the groundwork for potential future expansions into more advanced features.
